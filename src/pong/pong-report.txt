@@ -1,0 +1,253 @@
+
+*** Episode 10 ***                       
+Av.reward: [last 10]: -20.50, [last 100]: -2.26, [all]: -20.55                       
+epsilon: 0.34, frames_total: 9848
+Elapsed time:  00:01:02
+
+*** Episode 20 ***                       
+Av.reward: [last 10]: -20.40, [last 100]: -4.30, [all]: -20.48                       
+epsilon: 0.14, frames_total: 18980
+Elapsed time:  00:02:03
+
+*** Episode 30 ***                       
+Av.reward: [last 10]: -19.50, [last 100]: -6.25, [all]: -20.16                       
+epsilon: 0.06, frames_total: 29808
+Elapsed time:  00:03:17
+
+*** Episode 40 ***                       
+Av.reward: [last 10]: -17.70, [last 100]: -8.02, [all]: -19.56                       
+epsilon: 0.02, frames_total: 44724
+Elapsed time:  00:05:02
+
+*** Episode 50 ***                       
+Av.reward: [last 10]: -16.80, [last 100]: -9.70, [all]: -19.02                       
+epsilon: 0.01, frames_total: 62991
+Elapsed time:  00:07:10
+
+*** Episode 60 ***                       
+Av.reward: [last 10]: -14.10, [last 100]: -11.11, [all]: -18.21                       
+epsilon: 0.01, frames_total: 86177
+Elapsed time:  00:09:54
+
+*** Episode 70 ***                       
+Av.reward: [last 10]: -12.40, [last 100]: -12.35, [all]: -17.39                       
+epsilon: 0.01, frames_total: 111107
+Elapsed time:  00:12:48
+
+*** Episode 80 ***                       
+Av.reward: [last 10]: -15.00, [last 100]: -13.85, [all]: -17.10                       
+epsilon: 0.01, frames_total: 134782
+Elapsed time:  00:15:36
+
+*** Episode 90 ***                       
+Av.reward: [last 10]: -11.80, [last 100]: -15.03, [all]: -16.52                       
+epsilon: 0.01, frames_total: 163008
+Elapsed time:  00:18:54
+
+*** Episode 100 ***                       
+Av.reward: [last 10]: -10.80, [last 100]: -15.90, [all]: -15.95                       
+epsilon: 0.01, frames_total: 190150
+Elapsed time:  00:22:06
+
+*** Episode 110 ***                       
+Av.reward: [last 10]: -12.70, [last 100]: -15.12, [all]: -15.66                       
+epsilon: 0.01, frames_total: 215082
+Elapsed time:  00:25:02
+
+*** Episode 120 ***                       
+Av.reward: [last 10]: -6.40, [last 100]: -13.72, [all]: -14.89                       
+epsilon: 0.01, frames_total: 243902
+Elapsed time:  00:28:27
+
+*** Episode 130 ***                       
+Av.reward: [last 10]: -8.20, [last 100]: -12.59, [all]: -14.38                       
+epsilon: 0.01, frames_total: 270921
+Elapsed time:  00:31:38
+
+*** Episode 140 ***                       
+Av.reward: [last 10]: -7.70, [last 100]: -11.59, [all]: -13.91                       
+epsilon: 0.01, frames_total: 299913
+Elapsed time:  00:35:05
+
+*** Episode 150 ***                       
+Av.reward: [last 10]: -6.60, [last 100]: -10.57, [all]: -13.42                       
+epsilon: 0.01, frames_total: 328446
+Elapsed time:  00:38:27
+
+*** Episode 160 ***                       
+Av.reward: [last 10]: -1.10, [last 100]: -9.27, [all]: -12.66                       
+epsilon: 0.01, frames_total: 356861
+Elapsed time:  00:41:48
+
+*** Episode 170 ***                       
+Av.reward: [last 10]: 3.90, [last 100]: -7.64, [all]: -11.69                       
+epsilon: 0.01, frames_total: 385990
+Elapsed time:  00:45:14
+
+*** Episode 180 ***                       
+Av.reward: [last 10]: 6.30, [last 100]: -5.51, [all]: -10.70                       
+epsilon: 0.01, frames_total: 415241
+Elapsed time:  00:48:42
+
+*** Episode 190 ***                       
+Av.reward: [last 10]: 14.40, [last 100]: -2.89, [all]: -9.38                       
+epsilon: 0.01, frames_total: 438122
+Elapsed time:  00:51:23
+
+*** Episode 200 ***                       
+Av.reward: [last 10]: 15.60, [last 100]: -0.25, [all]: -8.14                       
+epsilon: 0.01, frames_total: 460354
+Elapsed time:  00:54:01
+
+*** Episode 210 ***                       
+Av.reward: [last 10]: 16.20, [last 100]: 2.64, [all]: -6.99                       
+epsilon: 0.01, frames_total: 481241
+Elapsed time:  00:56:28
+
+*** Episode 220 ***                       
+Av.reward: [last 10]: 17.70, [last 100]: 5.05, [all]: -5.87                       
+epsilon: 0.01, frames_total: 500182
+Elapsed time:  00:58:41
+
+*** Episode 230 ***                       
+Av.reward: [last 10]: 17.60, [last 100]: 7.63, [all]: -4.85                       
+epsilon: 0.01, frames_total: 519626
+Elapsed time:  01:01:00
+
+*** Episode 240 ***                       
+Av.reward: [last 10]: 18.30, [last 100]: 10.23, [all]: -3.89                       
+epsilon: 0.01, frames_total: 538543
+Elapsed time:  01:03:15
+
+*** Episode 250 ***                       
+Av.reward: [last 10]: 18.10, [last 100]: 12.70, [all]: -3.02                       
+epsilon: 0.01, frames_total: 557822
+Elapsed time:  01:05:32
+
+*** Episode 260 ***                       
+Av.reward: [last 10]: 17.40, [last 100]: 14.55, [all]: -2.23                       
+epsilon: 0.01, frames_total: 577571
+Elapsed time:  01:07:53
+
+*** Episode 270 ***                       
+Av.reward: [last 10]: 18.30, [last 100]: 15.99, [all]: -1.48                       
+epsilon: 0.01, frames_total: 596470
+Elapsed time:  01:10:07
+
+*** Episode 280 ***                       
+Av.reward: [last 10]: 18.00, [last 100]: 17.16, [all]: -0.78                       
+epsilon: 0.01, frames_total: 615937
+Elapsed time:  01:12:26
+
+*** Episode 290 ***                       
+Av.reward: [last 10]: 19.50, [last 100]: 17.67, [all]: -0.09                       
+epsilon: 0.01, frames_total: 633567
+Elapsed time:  01:14:30
+SOLVED! After 300 episodes 
+
+*** Episode 300 ***                       
+Av.reward: [last 10]: 19.20, [last 100]: 18.03, [all]: 0.55                       
+epsilon: 0.01, frames_total: 652434
+Elapsed time:  01:16:44
+
+*** Episode 310 ***                       
+Av.reward: [last 10]: 19.30, [last 100]: 18.34, [all]: 1.16                       
+epsilon: 0.01, frames_total: 670039
+Elapsed time:  01:18:48
+
+*** Episode 320 ***                       
+Av.reward: [last 10]: 19.50, [last 100]: 18.52, [all]: 1.73                       
+epsilon: 0.01, frames_total: 687410
+Elapsed time:  01:20:51
+
+*** Episode 330 ***                       
+Av.reward: [last 10]: 19.80, [last 100]: 18.74, [all]: 2.27                       
+epsilon: 0.01, frames_total: 704829
+Elapsed time:  01:22:54
+
+*** Episode 340 ***                       
+Av.reward: [last 10]: 19.50, [last 100]: 18.86, [all]: 2.78                       
+epsilon: 0.01, frames_total: 722285
+Elapsed time:  01:24:59
+
+*** Episode 350 ***                       
+Av.reward: [last 10]: 18.70, [last 100]: 18.92, [all]: 3.23                       
+epsilon: 0.01, frames_total: 740501
+Elapsed time:  01:27:09
+
+*** Episode 360 ***                       
+Av.reward: [last 10]: 19.40, [last 100]: 19.12, [all]: 3.68                       
+epsilon: 0.01, frames_total: 758277
+Elapsed time:  01:29:15
+
+*** Episode 370 ***                       
+Av.reward: [last 10]: 19.60, [last 100]: 19.25, [all]: 4.11                       
+epsilon: 0.01, frames_total: 776020
+Elapsed time:  01:31:21
+
+*** Episode 380 ***                       
+Av.reward: [last 10]: 19.20, [last 100]: 19.37, [all]: 4.51                       
+epsilon: 0.01, frames_total: 793747
+Elapsed time:  01:33:27
+
+*** Episode 390 ***                       
+Av.reward: [last 10]: 19.50, [last 100]: 19.37, [all]: 4.89                       
+epsilon: 0.01, frames_total: 811417
+Elapsed time:  01:35:32
+
+*** Episode 400 ***                       
+Av.reward: [last 10]: 19.90, [last 100]: 19.44, [all]: 5.26                       
+epsilon: 0.01, frames_total: 828813
+Elapsed time:  01:37:36
+
+*** Episode 410 ***                       
+Av.reward: [last 10]: 20.00, [last 100]: 19.51, [all]: 5.62                       
+epsilon: 0.01, frames_total: 845941
+Elapsed time:  01:39:37
+
+*** Episode 420 ***                       
+Av.reward: [last 10]: 18.90, [last 100]: 19.45, [all]: 5.94                       
+epsilon: 0.01, frames_total: 863909
+Elapsed time:  01:41:44
+
+*** Episode 430 ***                       
+Av.reward: [last 10]: 17.70, [last 100]: 19.24, [all]: 6.21                       
+epsilon: 0.01, frames_total: 881804
+Elapsed time:  01:43:50
+
+*** Episode 440 ***                       
+Av.reward: [last 10]: 18.60, [last 100]: 19.15, [all]: 6.49                       
+epsilon: 0.01, frames_total: 899968
+Elapsed time:  01:45:59
+
+*** Episode 450 ***                       
+Av.reward: [last 10]: 18.80, [last 100]: 19.16, [all]: 6.76                       
+epsilon: 0.01, frames_total: 918319
+Elapsed time:  01:48:10
+
+*** Episode 460 ***                       
+Av.reward: [last 10]: 19.10, [last 100]: 19.13, [all]: 7.03                       
+epsilon: 0.01, frames_total: 936103
+Elapsed time:  01:50:17
+
+*** Episode 470 ***                       
+Av.reward: [last 10]: 18.50, [last 100]: 19.02, [all]: 7.28                       
+epsilon: 0.01, frames_total: 954449
+Elapsed time:  01:52:27
+
+*** Episode 480 ***                       
+Av.reward: [last 10]: 19.80, [last 100]: 19.08, [all]: 7.54                       
+epsilon: 0.01, frames_total: 972131
+Elapsed time:  01:54:34
+
+*** Episode 490 ***                       
+Av.reward: [last 10]: 19.90, [last 100]: 19.12, [all]: 7.79                       
+epsilon: 0.01, frames_total: 989354
+Elapsed time:  01:56:35
+
+
+
+
+Average reward: 8.01
+Average reward (last 100 episodes): 19.13
+Solved after 300 episodes

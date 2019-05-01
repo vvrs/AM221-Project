@@ -1,0 +1,6 @@
+PGD:
+Original : 0, Perterbed : 3
+BIM:
+Original : 0, Perterbed : 5
+FGSM:
+Original : 0, Perterbed : 5
